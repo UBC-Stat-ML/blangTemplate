@@ -7,7 +7,7 @@ Usage
 
 Requires Java 8 and git.
 
-Check out the source ``git clone https://github.com/UBC-Stat-ML/blangStarter.git``
+Check out the source ``git clone https://github.com/UBC-Stat-ML/blangTemplate.git``
 
 ### Blang IDE (Eclipse with Blang plugin)
 
