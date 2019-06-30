@@ -1,0 +1,8 @@
+package hello
+
+model World { 
+  random RealVar x ?: latentReal()
+  laws {
+    x ~ Normal(0, 1)
+  } 
+} 
